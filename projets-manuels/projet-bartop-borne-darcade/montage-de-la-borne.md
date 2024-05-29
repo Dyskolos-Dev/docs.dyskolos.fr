@@ -17,7 +17,7 @@ Construire votre propre bartop arcade est un projet passionnant qui combine menu
 
 1. **Préparez l'écran** : Prenez l'écran LCD et vérifiez qu'il fonctionne avant de l'installer.
 2. **Positionner l'écran** : Placez l'écran dans le trou prévu à cet effet sur le panneau avant. Assurez-vous qu'il est bien centré.
-3. **Fixer l'écran** : Utilisez les supports fournis pour fixer l'écran en place. Vérifiez qu'il est bien sécurisé et ne bouge pas.
+3. **Fixer l'écran** : Utilisez des supports pour fixer l'écran en place. Vérifiez qu'il est bien sécurisé et ne bouge pas.
 
 ### Étape 3 : Installation des LED
 
