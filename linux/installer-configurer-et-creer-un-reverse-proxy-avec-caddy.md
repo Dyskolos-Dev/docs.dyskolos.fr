@@ -52,7 +52,7 @@ caddy version
 Créez le fichier de configuration de Caddy (`Caddyfile`) situé dans `/etc/caddy/Caddyfile` :
 
 ```sh
-shCopier le codesudo nano /etc/caddy/Caddyfile
+sudo nano /etc/caddy/Caddyfile
 ```
 
 
